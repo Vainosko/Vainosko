@@ -2,6 +2,8 @@
 
 Hi, I'm Vainosko!
 
+Check out my fancy, new [portfolio](https://Vainosko.github.io/portfolio)!
+
 <!--
 **Vainosko/Vainosko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
